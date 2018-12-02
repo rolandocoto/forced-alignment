@@ -1,0 +1,21 @@
+a	AE1
+ā	AE1
+e	EH1
+ē	EH1
+i	IY1
+ī	IY1
+k	K
+m	M
+n	N
+ng	NG
+o	OW1
+ō	OW1
+p	P
+r	R
+t	T
+u	UW1	
+ū	UW1
+v	V
+'	T
+q	T
+x	
