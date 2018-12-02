@@ -1,0 +1,510 @@
+a	AE1	a
+a'a	AE1 T AE1	a ' a
+ai	AE1 IY1	a i
+ai	AY1	ai
+aia	AE1 IY1 AE1	a i a
+ake	AE1 K EH1	a k e
+ake	EY1 K	a k
+ana	AE1 N AE1	a n a
+anake	AE1 N AE1 K EH1	a n a k e
+and	AE1 N D	a n d
+anoano	AE1 N OW1 AE1 N OW1	a n o a n o
+apoxpox	AE1 P OW1 P OW1	a p ox p ox
+aqa	AE1 T AE1	a q a
+ara	AE1 R AE1	a r a
+araara	AE1 R AE1 AE1 R AE1	a r a a r a
+ariki	AE1 R IY1 K IY1	a r i k i
+aronga	AE1 R OW1 NG AE1	a r o ng a
+atu	AE1 T UW1	a t u
+au	AE1 UW1	a u
+au	OW1	au
+auex	AE1 UW1 EH1	a u ex
+avangapux	AE1 V AE1 NG AE1 P UW1	a v a ng a p ux
+ax	AE1	ax
+axe	AE1 EH1	ax e
+axku	AE1 K UW1	ax k u
+axmanu	AE1 M AE1 N UW1	ax m a n u
+axnani	AE1 N AE1 N IY1	ax n a n i
+axriki	AE1 R IY1 K IY1	ax r i k i
+click	K L IH1 K	c l i ck
+e	EH1	e
+eaea	EH1 AE1 EH1 AE1	e a e a
+ei	EH1 IY1	e i
+eleven	IH0 L EH1 V AH0 N	e l e v e n
+evangeria	EH1 V AE1 NG EH1 R IY1 AE1	e v a ng e r i a
+ex	EH1	ex
+ex	EH1	ex
+exi	EH1 IY1	ex i
+first	F ER1 S T	f ir s t
+fourteen	F AO1 R T IY1 N	f ou r t ee n
+fpp	EH1 F P IY1 P IY1	e f p ee p ee
+i	IY1	i
+ia	IY1 AE1	i a
+ika	IY1 K AE1	i k a
+imene	IY1 M EH1 N EH1	i m e n e
+inapox	IY1 N AE1 P OW1	i n a p ox
+inara	IY1 N AE1 R AE1	i n a r a
+inax	IY1 N AE1	i n ax
+inaxrax	IY1 N AE1 R AE1	i n ax r ax
+ingoa	IY1 NG OW1 AE1	i ng o a
+iva	IY1 V AE1	i v a
+ka	K AE1	k a
+kaaxiri	K AE1 AE1 IY1 R IY1	k a ax i r i
+kai	K AE1 IY1	k a i
+kakaq	K AE1 K AE1 T	k a k a q
+kakaqu	K AE1 K AE1 T UW1	k a k a q u
+kakara	K AE1 K AE1 R AE1	k a k a r a
+kakau	K AE1 K AE1 UW1	k a k a u
+kakave	K AE1 K AE1 V EH1	k a k a v e
+kakix	K AE1 K IY1	k a k ix
+kanga	K AE1 NG AE1	k a ng a
+kapua	K AE1 P UW1 AE1	k a p u a
+kara	K AE1 R AE1	k a r a
+karaka	K AE1 R AE1 K AE1	k a r a k a
+karama	K AE1 R AE1 M AE1	k a r a m a
+karanga	K AE1 R AE1 NG AE1	k a r a ng a
+karangaqia	K AE1 R AE1 NG AE1 T IY1 AE1	k a r a ng a q i a
+karati	K AE1 R AE1 T IY1	k a r a t i
+kata	K AE1 T AE1	k a t a
+katiri	K AE1 T IY1 R IY1	k a t i r i
+katoa	K AE1 T OW1 AE1	k a t o a
+katoa'anga	K AE1 T OW1 AE1 T AE1 NG AE1	k a t o a ' a ng a
+katu	K AE1 T UW1	k a t u
+kau	K AE1 UW1	k a u
+kavangux	K AE1 V AE1 NG UW1	k a v a ng ux
+kaxkaqu	K AE1 K AE1 T UW1	k ax k a q u
+kaxpiki	K AE1 P IY1 K IY1	k ax p i k i
+kaxpiki'ia	K AE1 P IY1 K IY1 T IY1 AE1	k ax p i k i ' i a
+kaxre	K AE1 R EH1	k ax r e
+kaxreka	K AE1 R EH1 K AE1	k ax r e k a
+kaxtiri	K AE1 T IY1 R IY1	k ax t i r i
+keia	K EH1 IY1 AE1	k e i a
+kete	K EH1 T EH1	k e t e
+keukeu	K EH1 UW1 K EH1 UW1	k e u k e u
+kex	K EH1	k ex
+ki	K IY1	k i
+kia	K IY1 AE1	k i a
+kimi	K IY1 M IY1	k i m i
+kiore	K IY1 OW1 R EH1	k i o r e
+kiriti	K IY1 R IY1 T IY1	k i r i t i
+kite	K IY1 T EH1	k i t e
+kiteqanga	K IY1 T EH1 T AE1 NG AE1	k i t e q a ng a
+ko	K OW1	k o
+koe	K OW1 EH1	k o e
+koia	K OW1 IY1 AE1	k o i a
+komakoma	K OW1 M AE1 K OW1 M AE1	k o m a k o m a
+koqu	K OW1 T UW1	k o q u
+kore	K OW1 R EH1	k o r e
+koropeka	K OW1 R OW1 P EH1 K AE1	k o r o p e k a
+koropini	K OW1 R OW1 P IY1 N IY1	k o r o p i n i
+kox	K OW1	k ox
+kox	K OW1	k ox
+koxpapa	K OW1 P AE1 P AE1	k ox p a p a
+koxpeka	K OW1 P EH1 K AE1	k ox p e k a
+koxpux	K OW1 P UW1	k ox p ux
+koxrero	K OW1 R EH1 R OW1	k ox r e r o
+koxrua	K OW1 R UW1 AE1	k ox r u a
+kua	K UW1 AE1	k u a
+kuki	K UW1 K IY1	k u k i
+link	L IH1 NG K	l i n k
+ma	M AE1	m a
+ma'ata	M AE1 T AE1 T AE1	m a ' a t a
+maeva	M AE1 EH1 V AE1	m a e v a
+mai	M AE1 IY1	m a i
+mai	M AY1	m ai
+maiqanga	M AE1 IY1 T AE1 NG AE1	m a i q a ng a
+maire	M AE1 IY1 R EH1	m a i r e
+maka	M AE1 K AE1	m a k a
+makarona	M AE1 K AE1 R OW1 N AE1	m a k a r o n a
+makeke	M AE1 K EH1 K EH1	m a k e k e
+mana	M AE1 N AE1	m a n a
+manako	M AE1 N AE1 K OW1	m a n a k o
+manamanatax	M AE1 N AE1 M AE1 N AE1 T AE1	m a n a m a n a t ax
+manu	M AE1 N UW1	m a n u
+maoake	M AE1 OW1 AE1 K EH1	m a o a k e
+mapuna	M AE1 P UW1 N AE1	m a p u n a
+maqana	M AE1 T AE1 N AE1	m a q a n a
+maqani	M AE1 T AE1 N IY1	m a q a n i
+maqara	M AE1 T AE1 R AE1	m a q a r a
+maqata	M AE1 T AE1 T AE1	m a ' a t a
+maquke	M AE1 T UW1 K EH1	m a q u k e
+marae	M AE1 R AE1 EH1	m a r a e
+mare	M AE1 R EH1	m a r e
+marox	M AE1 R OW1	m a r ox
+mata	M AE1 T AE1	m a t a
+mata'iti	M AE1 T AE1 T IY1 T IY1	m a t a ' i t i
+matai'iti	M AE1 T AE1 IY1 T IY1 T IY1	m a t a i ' i t i
+mataiti	M AE1 T AE1 IY1 T IY1	m a t a i t i
+matakeinanga	M AE1 T AE1 K EH1 IY1 N AE1 NG AE1	m a t a k e i n a ng a
+matangi	M AE1 T AE1 NG IY1	m a t a ng i
+mataqiapo	M AE1 T AE1 T IY1 AE1 P OW1	m a t a q i a p o
+mate	M AE1 T EH1	m a t e
+matuxtux	M AE1 T UW1 T UW1	m a t ux t ux
+mauku	M AE1 UW1 K UW1	m a u k u
+maunga	M AE1 UW1 NG AE1	m a u ng a
+maxkara	M AE1 K AE1 R AE1	m ax k a r a
+maxnakonakoqanga	M AE1 N AE1 K OW1 N AE1 K OW1 T AE1 NG AE1	m ax n a k o n a k o q a ng a
+maxnea	M AE1 N EH1 AE1	m ax n e a
+maxnganui	M AE1 NG AE1 N UW1 IY1	m ax ng a n u i
+maxqana	M AE1 T AE1 N AE1	m ax q a n a
+maxrama	M AE1 R AE1 M AE1	m ax r a m a
+maxri	M AE1 R IY1	m ax r i
+maxtou	M AE1 T OW1 UW1	m ax t o u
+mea	M EH1 AE1	m e a
+mearikiriki	M EH1 AE1 R IY1 K IY1 R IY1 K IY1	m e a r i k i r i k i
+media	M IY1 D IY0 AH0	m e d i a
+mei	M EH1 IY1	m e i
+mei	M EY1	m ei
+meitaki	M EH1 IY1 T AE1 K IY1	m e i t a k i
+mema	M EH1 M AE1	m e m a
+member	M EH1 M B ER0	m e m b er
+mereki	M EH1 R EH1 K IY1	m e r e k i
+merexni	M EH1 R EH1 N IY1	m e r ex n i
+metua	M EH1 T UW1 AE1	m e t u a
+mex	M EH1	m ex
+mexre	M EH1 R EH1	m ex r e
+mini	M IY1 N IY1	m i n i
+miri	M IY1 R IY1	m i r i
+mmp	EH1 M EH1 M P IY1	e m e m p ee
+moana	M OW1 AE1 N AE1	m o a n a
+mokopuna	M OW1 K OW1 P UW1 N AE1	m o k o p u n a
+momore	M OW1 M OW1 R EH1	m o m o r e
+motu	M OW1 T UW1	m o t u
+moxmo	M OW1 M OW1	m ox m o
+moxmore	M OW1 M OW1 R EH1	m ox m o r e
+mp	EH1 M P IY1	e m p ee
+mua	M UW1 AE1	m u a
+muxtexkix	M UW1 T EH1 K IY1	m ux t ex k ix
+n	N	n
+nanao	N AE1 N AE1 OW1	n a n a o
+nax	N AE1	n ax
+nax'au	N AE1 T AE1 UW1	n ax ' a u
+nei	N EH1 IY1	n e i
+nei	N EY1	n ei
+ngaquru	NG AE1 T UW1 R UW1	ng a q u r u
+ngati	NG AE1 T IY1	ng a t i
+ngax	NG AE1	ng ax
+ngax	NG AE1	ng ax
+ngax'i	NG AE1 T IY1	ng ax ' i
+ngaxqi	NG AE1 T IY1	ng ax q i
+no'o	N OW1 T OW1	n o ' o
+no'o'anga	N OW1 T OW1 T AE1 NG AE1	n o ' o ' a ng a
+noa	N OW1 AE1	n o a
+noqo	N OW1 T OW1	n o ' o
+nox	N OW1	n ox
+nox'ou	N OW1 T OW1 UW1	n ox ' o u
+noxnax	N OW1 N AE1	n ox n ax
+nu	N UW1	n u
+nui	N UW1 IY1	n u i
+numero	N UW1 M EH1 R OW1	n u m e r o
+nuti	N UW1 T IY1	n u t i
+nutipexpa	N UW1 T IY1 P EH1 P AE1	n u t i p ex p a
+nuxmero	N UW1 M EH1 R OW1	n ux m e r o
+o	OW1	o
+ok	OW1 K	o k
+ono	OW1 N OW1	o n o
+ora	OW1 R AE1	o r a
+oti	OW1 T IY1	o t i
+ox	OW1	ox
+pae	P AE1 EH1	p a e
+pangia	P AE1 NG IY1 AE1	p a ng i a
+papa	P AE1 P AE1	p a p a
+papaqa	P AE1 P AE1 T AE1	p a p a q a
+papaqax	P AE1 P AE1 T AE1	p a p a q ax
+paqi	P AE1 T IY1	p a q i
+paqix	P AE1 T IY1	p a q ix
+paramani	P AE1 R AE1 M AE1 N IY1	p a r a m a n i
+pararix	P AE1 R AE1 R IY1	p a r a r ix
+past	P AE1 S T	p a s t
+patu	P AE1 T UW1	p a t u
+paxpax	P AE1 P AE1	p ax p ax
+paxramani	P AE1 R AE1 M AE1 N IY1	p ax r a m a n i
+paxti	P AE1 T IY1	p ax t i
+peapa	P EH1 AE1 P AE1	p e a p a
+pererau	P EH1 R EH1 R AE1 UW1	p e r e r a u
+pereue	P EH1 R EH1 UW1 EH1	p e r e u e
+peu	P EH1 UW1	p e u
+pexnei	P EH1 N EH1 IY1	p ex n e i
+pexni	P EH1 N IY1	p ex n i
+pexqi	P EH1 T IY1	p ex ' i
+pexrax	P EH1 R AE1	p ex r ax
+piri	P IY1 R IY1	p i r i
+piripou	P IY1 R IY1 P OW1 UW1	p i r i p o u
+player	P L EY1 ER0	p l ay er
+poro	P OW1 R OW1	p o r o
+porotaka	P OW1 R OW1 T AE1 K AE1	p o r o t a k a
+post	P OW1 S T	p o s t
+poto	P OW1 T OW1	p o t o
+poxpongi	P OW1 P OW1 NG IY1	p ox p o ng i
+poxro	P OW1 R OW1	p ox r o
+poxtiki	P OW1 T IY1 K IY1	p ox t i k i
+preferential	P R EH2 F ER0 EH1 N SH AH0 L	p r e f er e n ti a l
+pue	P UW1 EH1	p u e
+puka	P UW1 K AE1	p u k a
+pukurena	P UW1 K UW1 R EH1 N AE1	p u k u r e n a
+pupuqi	P UW1 P UW1 T IY1	p u p u q i
+purotu	P UW1 R OW1 T UW1	p u r o t u
+putuputuqanga	P UW1 T UW1 P UW1 T UW1 T AE1 NG AE1	p u t u p u t u q a ng a
+pux	P UW1	p ux
+puxngaverevere	P UW1 NG AE1 V EH1 R EH1 V EH1 R EH1	p ux ng a v e r e v e r e
+puxpux	P UW1 P UW1	p ux p ux
+puxqaxpiqi	P UW1 T AE1 P IY1 T IY1	p ux q ax p i q i
+puxtex	P UW1 T EH1	p ux t ex
+pv	P IY1 V IY1	p ee v ee
+qaere	T AE1 EH1 R EH1	' a e r e
+qaere	T AE1 EH1 R EH1	q a e r e
+qai	T AE1 IY1	q a i
+qai	T AE1 IY1	q a i
+qai	T AE1 IY1	q a i
+qaka'ou'anga	T AE1 K AE1 T OW1 UW1 T AE1 NG AE1	' a k a ' o u ' a ng a
+qakakitekite	T AE1 K AE1 K IY1 T EH1 K IY1 T EH1	q a k a k i t e k i t e
+qakakix	T AE1 K AE1 K IY1	q a k a k ix
+qakakoromakiqanga	T AE1 K AE1 K OW1 R OW1 M AE1 K IY1 T AE1 NG AE1	q a k a k o r o m a k i q a ng a
+qakama	T AE1 K AE1 M AE1	q a k a m a
+qakamatapakipakia	T AE1 K AE1 M AE1 T AE1 P AE1 K IY1 P AE1 K IY1 AE1	q a k a m a t a p a k i p a k i a
+qakano'ono'o'anga	T AE1 K AE1 N OW1 T OW1 N OW1 T OW1 T AE1 NG AE1	' a k a n o ' o n o ' o ' a ng a
+qakano'ono'o'ia	T AE1 K AE1 N OW1 T OW1 N OW1 T OW1 T IY1 AE1	' a k a n o ' o n o ' o ' i a
+qakano'ono'oanga	T AE1 K AE1 N OW1 T OW1 N OW1 T OW1 AE1 NG AE1	' a k a n o ' o n o ' o a ng a
+qakaora	T AE1 K AE1 OW1 R AE1	q a k a o r a
+qakaoraqia	T AE1 K AE1 OW1 R AE1 T IY1 AE1	q a k a o r a q i a
+qakapoqiterereqia	T AE1 K AE1 P OW1 T IY1 T EH1 R EH1 R EH1 T IY1 AE1	q a k a p o q i t e r e r e q i a
+qakaputuputuqia	T AE1 K AE1 P UW1 T UW1 P UW1 T UW1 T IY1 AE1	q a k a p u t u p u t u q i a
+qakaqaiteiteqia	T AE1 K AE1 T AE1 IY1 T EH1 IY1 T EH1 T IY1 AE1	q a k a q a i t e i t e q i a
+qakaqou	T AE1 K AE1 T OW1 UW1	q a k a q o u
+qakaqoxu	T AE1 K AE1 T OW1 UW1	q a k a q ox u
+qakateimaqa	T AE1 K AE1 T EH1 IY1 M AE1 T AE1	q a k a t e i m a q a
+qakateqateqamamao	T AE1 K AE1 T EH1 T AE1 T EH1 T AE1 M AE1 M AE1 OW1	q a k a t e q a t e q a m a m a o
+qakateretere'anga	T AE1 K AE1 T EH1 R EH1 T EH1 R EH1 T AE1 NG AE1	' a k a t e r e t e r e ' a ng a
+qakatinamou	T AE1 K AE1 T IY1 N AE1 M OW1 UW1	' a k a t i n a m o u
+qakava	T AE1 K AE1 V AE1	q a k a v a
+qama	T AE1 M AE1	q a m a
+qamanaqia	T AE1 M AE1 N AE1 T IY1 AE1	q a m a n a q i a
+qamani	T AE1 M AE1 N IY1	q a m a n i
+qamarux	T AE1 M AE1 R UW1	q a m a r ux
+qanga'anga	T AE1 NG AE1 T AE1 NG AE1	' a ng a ' a ng a
+qangaqanga	T AE1 NG AE1 T AE1 NG AE1	q a ng a q a ng a
+qapai	T AE1 P AE1 IY1	' a p a i
+qapai	T AE1 P AE1 IY1	q a p a i
+qapinga	T AE1 P IY1 NG AE1	q a p i ng a
+qapuku	T AE1 P UW1 K UW1	q a p u k u
+qaravei	T AE1 R AE1 V EH1 IY1	q a r a v e i
+qare	T AE1 R EH1	' a r e
+qau	T AE1 UW1	q a u
+qax	T AE1	' ax
+qax	T AE1	q ax
+qaxkaari	T AE1 K AE1 AE1 R IY1	' ax k a a r i
+qaxkara	T AE1 K AE1 R AE1	' ax k a r a
+qaxkara	T AE1 K AE1 R AE1	' ax k a r a
+qaxkara	T AE1 K AE1 R AE1	q ax k a r a
+qaxkara'anga	T AE1 K AE1 R AE1 T AE1 NG AE1	' ax k a r a ' a ng a
+qaxkaro	T AE1 K AE1 R OW1	q ax k a r o
+qaxpa	T AE1 P AE1	' ax p a
+qaxpiqi	T AE1 P IY1 T IY1	q ax p i q i
+qaxpiqiqia	T AE1 P IY1 T IY1 T IY1 AE1	q ax p i q i q i a
+qaxqaxkiqanga	T AE1 T AE1 K IY1 T AE1 NG AE1	q ax q ax k i q a ng a
+qaxriki	T AE1 R IY1 K IY1	' ax r i k i
+qe	T EH1	' e
+qe	T EH1	' e
+qe	T EH1	q e
+qe	T EH1	q e
+qea	T EH1 AE1	' e a
+qeax	T EH1 AE1	q e ax
+qei	T EH1 IY1	' e i
+qei	T EH1 IY1	q e i
+qiki	T IY1 K IY1	' i k i
+qiki'anga	T IY1 K IY1 T AE1 NG AE1	' i k i ' a ng a
+qinangaro	T IY1 N AE1 NG AE1 R OW1	q i n a ng a r o
+qinangaro	T IY1 N AE1 NG AE1 R OW1	q i n a ng a r o
+qirinaki	T IY1 R IY1 N AE1 K IY1	q i r i n a k i
+qiriqiri	T IY1 R IY1 T IY1 R IY1	q i r i q i r i
+qiriqirikapua	T IY1 R IY1 T IY1 R IY1 K AE1 P UW1 AE1	q i r i q i r i k a p u a
+qiriqirikapuaqanga	T IY1 R IY1 T IY1 R IY1 K AE1 P UW1 AE1 T AE1 NG AE1	q i r i q i r i k a p u a q a ng a
+qiriqiriqanga	T IY1 R IY1 T IY1 R IY1 T AE1 NG AE1	q i r i q i r i q a ng a
+qiti	T IY1 T IY1	q i t i
+qitu	T IY1 T UW1	q i t u
+qoe	T OW1 EH1	' o e
+qoki	T OW1 K IY1	q o k i
+qokota'i	T OW1 K OW1 T AE1 T IY1	' o k o t a ' i
+qokotaqi	T OW1 K OW1 T AE1 T IY1	q o k o t a q i
+qopenga	T OW1 P EH1 NG AE1	q o p e ng a
+qoro	T OW1 R OW1	' o r o
+qoxire	T OW1 IY1 R EH1	q ox i r e
+qoxngai	T OW1 NG AE1 IY1	q ox ng a i
+qoxngai	T OW1 NG AE1 IY1	q ox ng a i
+qoxrei	T OW1 R EH1 IY1	q ox r e i
+qoxronga	T OW1 R OW1 NG AE1	' ox r o ng a
+qoxronga'ia	T OW1 R OW1 NG AE1 T IY1 AE1	' ox r o ng a ' i a
+qua	T UW1 AE1	' u a
+qua	T UW1 AE1	q u a
+qua'ia	T UW1 AE1 T IY1 AE1	' u a ' i a
+qui'anga	T UW1 IY1 T AE1 NG AE1	' u i ' a ng a
+qunoxnga	T UW1 N OW1 NG AE1	q u n ox ng a
+ra	R AE1	r a
+raranga	R AE1 R AE1 NG AE1	r a r a ng a
+raua	R AE1 UW1 AE1	r a u a
+rauka	R AE1 UW1 K AE1	r a u k a
+rava	R AE1 V AE1	r a v a
+rave	R AE1 V EH1	r a v e
+rave'ia	R AE1 V EH1 T IY1 AE1	r a v e ' i a
+raveqanga	R AE1 V EH1 T AE1 NG AE1	r a v e q a ng a
+raveqia	R AE1 V EH1 T IY1 AE1	r a v e q i a
+rax	R AE1	r ax
+raxi	R AE1 IY1	r ax i
+raxtou	R AE1 T OW1 UW1	r ax t o u
+raxua	R AE1 UW1 AE1	r ax u a
+raxvenga	R AE1 V EH1 NG AE1	r ax v e ng a
+referendum	R EH2 F ER0 EH1 N D AH0 M	r e f er e n d u m
+reira	R EH1 IY1 R AE1	r e i r a
+reo	R EH1 OW1	r e o
+reria	R EH1 R IY1 AE1	r e r i a
+rex	R EH1	r ex
+rima	R IY1 M AE1	r i m a
+ririnui	R IY1 R IY1 N UW1 IY1	r i r i n u i
+riro	R IY1 R OW1	r i r o
+ropa	R OW1 P AE1	r o p a
+ropaqanga	R OW1 P AE1 T AE1 NG AE1	r o p a q a ng a
+ropaqia	R OW1 P AE1 T IY1 AE1	r o p a q i a
+roto	R OW1 T OW1	r o t o
+rotopux	R OW1 T OW1 P UW1	r o t o p ux
+rua	R UW1 AE1	r u a
+runga	R UW1 NG AE1	r u ng a
+single	S IH1 NG G AH0 L	s i ng g ə l
+sm	EH1 S EH1 M	e s e m
+stv	EH1 S T IY1 V IY1	e s t ee v ee
+supplementary	S AH2 P L AH0 M EH1 N T AH0 R IY2	s u p l e m e n t a r y
+supplementary	S AH2 P L AH0 M EH1 N T R IY0	s u p l e m e n t r y
+systems	S IH1 S T AH0 M Z	s y s t e m s
+tae	T AE1 EH1	t a e
+taeake	T AE1 EH1 AE1 K EH1	t a e a k e
+taena	T AE1 EH1 N AE1	t a e n a
+tai	T AE1 IY1	t a i
+taiki	T AE1 IY1 K IY1	t a i k i
+taime	T AE1 IY1 M EH1	t a i m e
+takakex	T AE1 K AE1 K EH1	t a k a k ex
+takapini	T AE1 K AE1 P IY1 N IY1	t a k a p i n i
+takapiniqanga	T AE1 K AE1 P IY1 N IY1 T AE1 NG AE1	t a k a p i n i q a ng a
+takaveqiaqanga	T AE1 K AE1 V EH1 T IY1 AE1 T AE1 NG AE1	t a k a v e q i a q a ng a
+taku	T AE1 K UW1	t a k u
+tamaki	T AE1 M AE1 K IY1	t a m a k i
+tamariki	T AE1 M AE1 R IY1 K IY1	t a m a r i k i
+tangata	T AE1 NG AE1 T AE1	t a ng a t a
+tano	T AE1 N OW1	t a n o
+tapa	T AE1 P AE1	t a p a
+tapere	T AE1 P EH1 R EH1	t a p e r e
+taqi	T AE1 T IY1	t a ' i
+taqito	T AE1 T IY1 T OW1	t a q i t o
+taqunga	T AE1 T UW1 NG AE1	t a q u ng a
+tarai	T AE1 R AE1 IY1	t a r a i
+taraqia	T AE1 R AE1 T IY1 AE1	t a r a q i a
+tatau	T AE1 T AE1 UW1	t a t a u
+tau	T AE1 UW1	t a u
+taua	T AE1 UW1 AE1	t a u a
+taumaxrox	T AE1 UW1 M AE1 R OW1	t a u m ax r ox
+tauta	T AE1 UW1 T AE1	t a u t a
+tautai	T AE1 UW1 T AE1 IY1	t a u t a i
+tauturu	T AE1 UW1 T UW1 R UW1	t a u t u r u
+tax	T AE1	t ax
+tax	T AE1	t ax
+tax'au	T AE1 T AE1 UW1	t ax ' a u
+taxkiri	T AE1 K IY1 R IY1	t ax k i r i
+taxku	T AE1 K UW1	t ax k u
+taxmanako'anga	T AE1 M AE1 N AE1 K OW1 T AE1 NG AE1	t ax m a n a k o ' a ng a
+taxmata	T AE1 M AE1 T AE1	t ax m a t a
+taxna	T AE1 N AE1	t ax n a
+taxpokiqia	T AE1 P OW1 K IY1 T IY1 AE1	t ax p o k i q i a
+taxqau	T AE1 T AE1 UW1	t ax q a u
+taxqori	T AE1 T OW1 R IY1	t ax q o r i
+taxqoti	T AE1 T OW1 T IY1	t ax q o t i
+taxrex	T AE1 R EH1	t ax r ex
+taxtakia'i	T AE1 T AE1 K IY1 AE1 T IY1	t ax t a k i a ' i
+taxtakita'i	T AE1 T AE1 K IY1 T AE1 T IY1	t ax t a k i t a ' i
+taxtou	T AE1 T OW1 UW1	t ax t o u
+taxua	T AE1 UW1 AE1	t ax u a
+taxviri	T AE1 V IY1 R IY1	t ax v i r i
+te	T EH1	t e
+teata	T EH1 AE1 T AE1	t e a t a
+tei	T EH1 IY1	t e i
+teia	T EH1 IY1 AE1	t e i a
+tekeretere	T EH1 K EH1 R EH1 T EH1 R EH1	t e k e r e t e r e
+tex	T EH1	t ex
+tex'ea	T EH1 T EH1 AE1	t ex ' e a
+texia	T EH1 IY1 AE1	t ex i a
+texia	T EH1 IY1 AE1	t ex i a
+texnax	T EH1 N AE1	t ex n ax
+texrax	T EH1 R AE1	t ex r ax
+texta'i	T EH1 T AE1 T IY1	t ex t a ' i
+textaqi	T EH1 T AE1 T IY1	t ex t a q i
+textaxqi	T EH1 T AE1 T IY1	t ex t ax q i
+the	DH AH0	th e
+thousand	TH AW1 Z AH0 N	th ou s a n
+thousand	TH AW1 Z AH0 N D	th ou s a n d
+tiare	T IY1 AE1 R EH1	t i a r e
+tieni	T IY1 EH1 N IY1	t i e n i
+tieni'ia	T IY1 EH1 N IY1 T IY1 AH1	t i e n i ' i a
+tika	T IY1 K AE1	t i k a
+tikaxi	T IY1 K AE1 IY1	t i k ax i
+tireni	T IY1 R EH1 N IY1	t i r e n i
+tivaivai	T IY1 V AE1 IY1 V AE1 IY1	t i v a i v a i
+tixmata	T IY1 M AE1 T AE1	t ix m a t a
+tixvaivai	T IY1 V AE1 IY1 V AE1 IY1	t ix v a i v a i
+tokerau	T OW1 K EH1 R AE1 UW1	t o k e r a u
+topa	T OW1 P AE1	t o p a
+toru	T OW1 R UW1	t o r u
+totoro	T OW1 T OW1 R OW1	t o t o r o
+tox	T OW1	t ox
+tox	T OW1	t ox
+tox'ou	T OW1 T OW1 UW1	t ox ' o u
+toxku	T OW1 K UW1	t ox k u
+toxna	T OW1 N AE1	t ox n a
+toxqou	T OW1 T OW1 UW1	t ox q o u
+transferable	T R AE0 N S F ER1 AH0 B AH0 L	t r a n s f er a b ə l
+tua	T UW1 AE1	t u a
+tuaqia	T UW1 AE1 T IY1 AE1	t u a q i a
+tuaqine	T UW1 AE1 T IY1 N EH1	t u a q i n e
+tuareka	T UW1 AE1 R EH1 K AE1	t u a r e k a
+tuatua	T UW1 AE1 T UW1 AE1	t u a t u a
+tuaxtau	T UW1 AE1 T AE1 UW1	t u ax t a u
+tuku	T UW1 K UW1	t u k u
+tupu	T UW1 P UW1	t u p u
+tupuna	T UW1 P UW1 N AE1	t u p u n a
+tupuqanga	T UW1 P UW1 T AE1 NG AE1	t u p u q a ng a
+turuturu	T UW1 R UW1 T UW1 R UW1	t u r u t u r u
+tux	T UW1	t ux
+tux'anga	T UW1 T AE1 NG AE1	t ux ' a ng a
+tuxkex	T UW1 K EH1	t ux k ex
+tuxkextuxkex	T UW1 K EH1 T UW1 K EH1	t ux k ex t ux k ex
+tuxoroqia	T UW1 OW1 R OW1 T IY1 AE1	t ux o r o q i a
+tuxpapaqo	T UW1 P AE1 P AE1 T OW1	t ux p a p a q o
+tuxrama	T UW1 R AE1 M AE1	t ux r a m a
+tuxranga	T UW1 R AE1 NG AE1	t ux r a ng a
+tuxroto	T UW1 R OW1 T OW1	t ux r o t o
+tuxtaka	T UW1 T AE1 K AE1	t ux t a k a
+twelve	T W EH1 L V	t w e l v
+two	T UW1	t wo
+ui	UW1 IY1	u i
+ui'anga	UW1 IY1 T AE1 NG AE1	u i ' a ng a
+ui'ia	UW1 IY1 T IY1 AE1	u i ' i a
+um	UW1 M	u m
+uxmere	UW1 M EH1 R EH1	ux m e r e
+va	V AE1	v a
+va'o	V AE1 T OW1	v a ' o
+vaka	V AE1 K AE1	v a k a
+vananga	V AE1 N AE1 NG AE1	v a n a ng a
+vaqi	V AE1 T IY1	v a q i
+vaqine	V AE1 T IY1 N EH1	v a q i n e
+vaqix	V AE1 T IY1	v a q ix
+vaqo	V AE1 T OW1	v a q o
+vare'au	V AE1 R EH1 T AE1 UW1	v a r e ' a u
+varu	V AE1 R UW1	v a r u
+vavaqi	V AE1 V AE1 T IY1	v a v a q i
+vaxnanga	V AE1 N AE1 NG AE1	v ax n a ng a
+vene	V EH1 N EH1	v e n e
+vote	V OW1 T	v o t
+voting	V OW1 T IH0 NG	v o t i ng
+vouti	V OW1 UW1 T IH0	v o u t i
+vouti'anga	V OW1 UH1 T IY1 T AE1 NG AE1	v o u t i ' a ng a
+voutu	V OW1 UW1 T UW1	v o u t u
+voutu'anga	V OW1 UW1 T UW1 T AE1 NG AE1	v o u t u ' a ng a
+﻿QŌRONGA	T OW1 R OW1 NG AE1	' ox r o ng a
+﻿a	AE1	a
+manurewa	M AE1 N UW1 R EH1 W AE1	m a n u r e w a
