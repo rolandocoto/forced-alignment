@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #========================================================================
 # fixtextgrid.py
 # Rolando Coto-Solano. Victoria University of Wellington
