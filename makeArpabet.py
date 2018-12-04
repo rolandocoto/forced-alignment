@@ -1,7 +1,8 @@
+﻿# -*- coding: utf-8 -*-
 
 # makeArpabet.py
 # Rolando Coto-Solano, Victoria University of Wellington
-# Last updated: 20181201
+# Last updated: 20181204
 #
 # This script takes a tab-separated transcription (as generated
 # by ELAN or as done manually to use as input for FAVEalign),
@@ -89,23 +90,22 @@ def splitWordInSpaces(inWord, langGlyphs):
 	digraphsTogether = []
 	digraphsExploded = []
 	
-	tempDigraph = ""
 	totGlyphs = len(langGlyphs)
 	for i in range(0,totGlyphs):
 		if len(langGlyphs[i]) > 1:
-			for c in langGlyphs[i]:
-				tempDigraph += c + " "
-			tempDigraph = tempDigraph[:-1]
 			digraphsTogether.append(langGlyphs[i])
-			digraphsExploded.append(tempDigraph)
-			tempDigraph = ""
-
+			digraphsExploded.append(" ".join(langGlyphs[i]))
+			
 	outWord = ""
 	for c in inWord:
 		outWord += c + " "
 	outWord = outWord[:-1]
-	outWord = outWord.replace("n g", "ng")
-
+	
+	iteratDigraph = 0
+	while (iteratDigraph < len(digraphsTogether)):
+		outWord = outWord.replace(digraphsExploded[iteratDigraph],digraphsTogether[iteratDigraph])
+		iteratDigraph += 1
+	
 	return outWord
 
 def changeInitialAposToQ(inWord):
