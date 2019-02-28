@@ -2,7 +2,7 @@
 #========================================================================
 # fixtextgrid.py
 # Rolando Coto-Solano. Victoria University of Wellington
-# Last update: December 2nd, 2018
+# Last update: February 27, 2019
 #
 # This program takes a TextGrid (the output of FAVEalign) and replaces
 # the Arpabet characters with the in-language characters for each word,
